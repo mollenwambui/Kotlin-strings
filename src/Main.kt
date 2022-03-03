@@ -19,7 +19,7 @@ fun main(){
  fun nameAndage(){
      var name="Mollen Wambui"
      var age=21
-     var statement="My name is $name and i am $age years old"
+     var statement=" Hi,My name is $name and i am $age years old"
      println(statement)
  }
 //Write a function that takes in a String and returns its length
